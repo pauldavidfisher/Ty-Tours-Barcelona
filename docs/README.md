@@ -17,7 +17,7 @@ This theme comes in nine different skins (in addition to the default one).
 
 | `air` | `contrast` | `dark` |
 | --- | --- | --- |
-| [![air skin](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/air-skin-archive-large.png) | [![contrast skin](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/contrast-skin-archive-large.png) | [![dark skin](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive.png)](https://mmistakes.github.io/minimal-mistakes/assets/images/dark-skin-archive-large.png) |
+| [![air skin](./assets/barc-1.jpg)](./assets/barc-1.jpg) | [![contrast skin](./assets/barc-1.jpg)](./assets/barc-1.jpg) | [![dark skin](./assets/barc-1.jpg)](./assets/barc-1.jpg) |
 
 | `dirt` | `mint` | `sunrise` |
 | --- | --- | --- |
