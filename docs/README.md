@@ -9,7 +9,7 @@ Looking for some nice city views? This hidden pool/bar/restaurant will give you 
 
 ![Book logo](./assets/barc-1.jpg)
 
-![This is an image](https://flic.kr/p/2nEBQFc)
+![This is an image](https://live.staticflickr.com/65535/50660730913_c5515a5c70_k.jpg)
 ```
 ## Skins (color variations)
 
