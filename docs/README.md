@@ -1,8 +1,8 @@
-Barcelona Cathedral
+# Barcelona Cathedral
 
-You can order a paella just about anywhere in Barcelona, but very few of them are good. Thats why I always recommend traveling a bit outside of Barcelona to a nearby village called Garraf. It’s completely accessible by train and only a 30 minute ride. When you get there you’ll see a lovely beach nestled between rocky hills, and this fabulous restaurant carved into it. It’s called El Chiringuito de Garraf, and has that classic paella you’ve been jonesing for. The friendly local waiters will bring you your beers, appetizers and whatnot to you while you enjoy the ocean view from its balcony. It’s a MUST SEE if you’ve got the time. #tourguide #freetour #barcelona #spain #travel #photography #travelphotography #españa #travelgram #instagood #catalunya #photooftheday #love #picoftheday #summer #instatravel #bcn #europe #beautiful #trip #beach #instagram #photo #nature #holiday #wanderlust #happy #vacation #travelblogger #madrid
+Working on that summer tan and learning how to work hard and play hard! #tourguide #travel #tourism #tour #travelphotography #nature #tours #travelblogger #guide #tourist #travelgram #instatravel #travelling #trip #adventure #traveling #privatetour #tourguidelife #vacation #travelguide #explore #turismo #wanderlust #photography #holiday #instagood #ig #history #barcelonabarce #spain
 
-[![air skin](./assets/Chiringuito-1.jpg)](./assets/Chiringuito-1.jpg)
+![ty-1](https://github.com/pauldavidfisher/Ty-Tours-Barcelona/assets/9111095/3428b1a4-25d3-4da2-ab17-aaf2e6a6de02)
 
 
 
